@@ -114,13 +114,13 @@ export default function Home() {
               muted for your current browser).
             </p>
             <p className="my-2">
-              If this does not explain it, we would love it if you could tag us{" "}
+              If this does not explain it, you can contact me{" "}
               <a
                 className="text-text"
-                href={`https://twitter.com/intent/user?screen_name=${magicBellHandle}`}
+                href={`https://tarunx.me=${magicBellHandle}`}
                 target="_blank"
               >
-                @magicbell_io
+                tarunx.me
               </a>
               , with reference to your device settings displayed below.
             </p>
@@ -154,11 +154,11 @@ export default function Home() {
           inter.className
         }
       >
-        <h1>Web Push Notifications Demo</h1>
+        <h1>Web Push Notifications</h1>
       </header>
 
       <Head>
-        <title>Web Push Notifications Demo | MagicBell</title>
+        <title>Web Push Notifications | Taruns Server</title>
         <meta
           name="description"
           content="Web push notifications demo and starter template with support for iOS Safari PWA notifications."
